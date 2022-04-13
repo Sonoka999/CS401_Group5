@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start_tracking_walk">Start Tracking Walk</string>
+    <string name="view_walk_history">View Walk History</string>
+    <string name="manage_walk_goal">Manage Walk Goal</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_email">Change Email</string>
+</resources>
